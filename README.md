@@ -1,1 +1,2 @@
-# React-lesson-one
+Приложение на React, первый урок.
+Запускал в IDE 'npm start'
